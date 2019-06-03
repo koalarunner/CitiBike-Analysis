@@ -2,6 +2,8 @@
 
 ![alt text](https://github.com/koalarunner/CitiBike-Analysis/blob/master/02-Homework_20-Tableau_Images_citi-bike-station-bikes.jpg?raw=true)
 
+Tableau Link: https://public.tableau.com/profile/hayes.martens#!/vizhome/CitiBikeAnalysis_15595212673690/StartStationsMap
+
 
 ## Background
 
